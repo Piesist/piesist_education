@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Piesist';
+
+  name = 'learning_app';
+
+  
 }
